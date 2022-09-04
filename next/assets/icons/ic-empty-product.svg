@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="ic-empty-img-produk-40" transform="translate(-15 11)">
+    <g id="Group_30160" data-name="Group 30160" transform="translate(-8 -8)">
+      <rect id="Rectangle_6014" data-name="Rectangle 6014" width="40" height="40" rx="8" transform="translate(23 -3)" fill="#666"/>
+      <path id="Intersection_1" data-name="Intersection 1" d="M0,24A24,24,0,0,1,24,0V16a8,8,0,0,1-8,8Z" transform="translate(39 13.001)" fill="#989898"/>
+      <g id="Group_30177" data-name="Group 30177" transform="translate(-3029 -7210)">
+        <rect id="Rectangle_6263" data-name="Rectangle 6263" width="12" height="24" rx="6" transform="translate(3069 7216)" fill="#252525"/>
+        <path id="Rectangle_6264" data-name="Rectangle 6264" d="M6,0H6a6,6,0,0,1,6,6v6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(3069 7216)" fill="#252525"/>
+        <rect id="Rectangle_6266" data-name="Rectangle 6266" width="4" height="4" rx="2" transform="matrix(0.695, 0.719, -0.719, 0.695, 3075.049, 7231.172)" fill="#252525"/>
+        <g id="Group_28984" data-name="Group 28984" transform="translate(3072 7219)">
+          <g id="Group_28984-2" data-name="Group 28984">
+            <rect id="Rectangle_6053" data-name="Rectangle 6053" width="6" height="1.75" rx="0.875" transform="translate(2.125 6) rotate(-90)" fill="#252525"/>
+            <rect id="Rectangle_6054" data-name="Rectangle 6054" width="6" height="1.983" rx="0.992" transform="translate(0 2.009)" fill="#252525"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_30176" data-name="Group 30176" transform="translate(-3033 -7212)">
+        <rect id="Rectangle_6263-2" data-name="Rectangle 6263" width="12" height="24" rx="6" transform="translate(3069 7216)" fill="#fff"/>
+        <path id="Rectangle_6264-2" data-name="Rectangle 6264" d="M6,0H6a6,6,0,0,1,6,6v6a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(3069 7216)" fill="#ebebeb"/>
+        <rect id="Rectangle_6266-2" data-name="Rectangle 6266" width="4" height="4" rx="2" transform="matrix(0.695, 0.719, -0.719, 0.695, 3075.049, 7231.172)" fill="#666"/>
+        <g id="Group_28984-3" data-name="Group 28984" transform="translate(3072 7219)">
+          <g id="Group_28984-4" data-name="Group 28984">
+            <rect id="Rectangle_6053-2" data-name="Rectangle 6053" width="6" height="1.75" rx="0.875" transform="translate(2.125 6) rotate(-90)" fill="#666"/>
+            <rect id="Rectangle_6054-2" data-name="Rectangle 6054" width="6" height="1.983" rx="0.992" transform="translate(0 2.009)" fill="#666"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

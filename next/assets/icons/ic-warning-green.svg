@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic-warning-green-24" transform="translate(-27 -133)">
+    <path id="Path_6150" data-name="Path 6150" d="M0,0H24V24H0Z" transform="translate(27 133)" fill="rgba(0,0,0,0)"/>
+    <g id="Group_31042" data-name="Group 31042" transform="translate(-1 -1)">
+      <path id="error-24px" d="M10,2a8,8,0,1,0,8,8A8,8,0,0,0,10,2Z" transform="translate(30 136)" fill="#006125"/>
+      <path id="error-24px-2" data-name="error-24px" d="M10,9.5a.8.8,0,0,0-.8.8v3.2a.8.8,0,1,0,1.6,0V10.3A.8.8,0,0,0,10,9.5Zm.8-3.2a1.216,1.216,0,0,0-1.6,0,1.216,1.216,0,0,0,0,1.6,1.216,1.216,0,0,0,1.6,0A1.216,1.216,0,0,0,10.8,6.3Z" transform="translate(30 136.003)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

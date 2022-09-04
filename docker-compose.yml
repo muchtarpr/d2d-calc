@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+    app:
+        container_name: "gue-order-micro-apps"
+        build:
+            context: .
+            dockerfile: Dockerfile
+        environment:
+            - HOST=0.0.0.0
+        volumes:
+            - .:/apps/gueordermicro
+            - /apps/gueordermicro/node_modules
+            - /etc/localtime:/etc/localtime:ro
+        ports:
+            - "5007:5007"
+        networks:
+            - default
+
+networks:
+    default:
+        driver: bridge
