@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic-catatan-31" transform="translate(-15 3)">
+    <rect id="Rectangle_6022" data-name="Rectangle 6022" width="24" height="24" transform="translate(15 -3)" fill="#666" opacity="0"/>
+    <g id="Group_30160" data-name="Group 30160" transform="translate(-2 -2)">
+      <rect id="Rectangle_6014" data-name="Rectangle 6014" width="20" height="20" rx="6" transform="translate(19 1)" fill="#ffb300"/>
+      <path id="Intersection_1" data-name="Intersection 1" d="M1,15a6.042,6.042,0,0,1-1-.083A15,15,0,0,1,14.917,0,6.04,6.04,0,0,1,15,1V9a6,6,0,0,1-6,6Z" transform="translate(24 6)" fill="#ffca28"/>
+      <g id="Group_28974" data-name="Group 28974" transform="translate(22.75 6)">
+        <rect id="Rectangle_6019" data-name="Rectangle 6019" width="12.5" height="1.875" rx="0.938" transform="translate(1.25 1.25)" fill="#ff6e01"/>
+        <rect id="Rectangle_6015" data-name="Rectangle 6015" width="12.5" height="1.875" rx="0.938" fill="#fff"/>
+        <rect id="Rectangle_6020" data-name="Rectangle 6020" width="10" height="1.875" rx="0.938" transform="translate(1.25 5)" fill="#ff6e01"/>
+        <rect id="Rectangle_6016" data-name="Rectangle 6016" width="10" height="1.875" rx="0.938" transform="translate(0 3.75)" fill="#fff"/>
+        <rect id="Rectangle_6021" data-name="Rectangle 6021" width="7.5" height="1.875" rx="0.938" transform="translate(1.25 8.75)" fill="#ff6e01"/>
+        <rect id="Rectangle_6017" data-name="Rectangle 6017" width="7.5" height="1.875" rx="0.938" transform="translate(0 7.5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

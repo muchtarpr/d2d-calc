@@ -1,0 +1,20 @@
+<svg id="ic-list-pasien-on-24" xmlns="http://www.w3.org/2000/svg" width="24" height="24.001" viewBox="0 0 24 24.001">
+  <g id="poll-24px">
+    <rect id="Rectangle_5893" data-name="Rectangle 5893" width="24" height="24" rx="6" fill="#0771cd"/>
+    <path id="Intersection_6" data-name="Intersection 6" d="M2.074,19a20.007,20.007,0,0,1,17.9-17.9V13a6,6,0,0,1-6,6Z" transform="translate(4.025 5)" fill="#3aa0f0"/>
+    <g id="Group_30511" data-name="Group 30511" transform="translate(0 1)">
+      <g id="Group_30521" data-name="Group 30521" transform="translate(0 0.5)">
+        <g id="Group_30510" data-name="Group 30510" transform="translate(0 -1)">
+          <path id="Path_6134" data-name="Path 6134" d="M2.5,0A2.5,2.5,0,0,1,5,2.5H5a2.5,2.5,0,0,1-5,0H0A2.5,2.5,0,0,1,2.5,0Z" transform="translate(15 9) rotate(-90)" fill="#00429c"/>
+          <path id="Path_6133" data-name="Path 6133" d="M2.5,0A2.5,2.5,0,0,1,5,2.5H5a2.5,2.5,0,0,1-5,0H0A2.5,2.5,0,0,1,2.5,0Z" transform="translate(12 8) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_30520" data-name="Group 30520" transform="translate(0 -0.5)">
+        <g id="Group_30519" data-name="Group 30519" transform="translate(0 1)">
+          <path id="Polygon_11" data-name="Polygon 11" d="M5.162,1.29a1,1,0,0,1,1.677,0L11,7.686a1,1,0,0,1-.838,1.545H1.843A1,1,0,0,1,1,7.686Z" transform="translate(9 9)" fill="#00429c"/>
+          <path id="Polygon_8" data-name="Polygon 8" d="M5.162,1.29a1,1,0,0,1,1.677,0L11,7.686a1,1,0,0,1-.838,1.545H1.843A1,1,0,0,1,1,7.686Z" transform="translate(5 9)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

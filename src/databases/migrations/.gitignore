@@ -1,0 +1,7 @@
+# Adonis directory for storing tmp files
+tmp
+
+# VSCode & Webstorm history directories
+.history
+.idea
+.vscode
