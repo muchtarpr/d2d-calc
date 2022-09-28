@@ -1,0 +1,7 @@
+<svg id="radio-button-off" xmlns="http://www.w3.org/2000/svg" width="47" height="47" viewBox="0 0 47 47">
+  <rect id="Rectangle_5555" data-name="Rectangle 5555" width="47" height="47" rx="23.5" fill="#f6f6f7" opacity="0"/>
+  <g id="radio-button-off-2" data-name="radio-button-off" transform="translate(-1 -1)">
+    <rect id="Rectangle_5349" data-name="Rectangle 5349" width="24" height="24" transform="translate(12 12)" opacity="0"/>
+    <path id="Path_4275" data-name="Path 4275" d="M12,22A10,10,0,1,1,22,12,10,10,0,0,1,12,22ZM12,4a8,8,0,1,0,8,8A8,8,0,0,0,12,4Z" transform="translate(12 12)" fill="#666"/>
+  </g>
+</svg>

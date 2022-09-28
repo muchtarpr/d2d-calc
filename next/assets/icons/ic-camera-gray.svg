@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.001" height="24" viewBox="0 0 24.001 24">
+  <g id="ic-camera-grey-24" transform="translate(-57 -10)">
+    <g id="Group_30506" data-name="Group 30506" transform="translate(55 8)">
+      <circle id="Ellipse_428" data-name="Ellipse 428" cx="3" cy="3" r="3" transform="translate(11 12.75)" fill="#00429c"/>
+      <path id="Path_4508" data-name="Path 4508" d="M23.6,4.667H19.8l-1.488-1.8A2.288,2.288,0,0,0,16.544,2H11.456a2.331,2.331,0,0,0-1.776.867L8.2,4.667H4.4A2.551,2.551,0,0,0,2,7.333v16A2.551,2.551,0,0,0,4.4,26H23.6A2.551,2.551,0,0,0,26,23.333v-16A2.551,2.551,0,0,0,23.6,4.667Z" fill="#666"/>
+      <path id="Intersection_50" data-name="Intersection 50" d="M881.124,14100a16.168,16.168,0,0,1-.124-2,16,16,0,0,1,18-15.875v15.209a2.55,2.55,0,0,1-2.4,2.668Z" transform="translate(-873 -14074.001)" fill="#989898"/>
+    </g>
+    <g id="Group_30522" data-name="Group 30522" transform="translate(1 1.5)">
+      <circle id="Ellipse_1009" data-name="Ellipse 1009" cx="5" cy="5" r="5" transform="translate(63 17)" fill="#fff"/>
+      <circle id="Ellipse_1010" data-name="Ellipse 1010" cx="2.5" cy="2.5" r="2.5" transform="translate(65.5 19.5)" fill="#212121"/>
+    </g>
+    <circle id="Ellipse_1011" data-name="Ellipse 1011" cx="1.5" cy="1.5" r="1.5" transform="translate(60 16)" fill="#fff"/>
+  </g>
+</svg>
